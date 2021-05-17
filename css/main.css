@@ -37,7 +37,7 @@ p {
 }
 
 .logo {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.476;
@@ -273,7 +273,7 @@ p {
   color: #212121;
   margin-bottom: 50px;
 }
-.section .section--no-padding {
+.section--no-padding {
   padding-top: 0;
 }
 
@@ -325,6 +325,7 @@ p {
   background-image: linear-gradient(to right, rgba(47, 48, 58, 0.8), rgba(47, 48, 58, 0.8));
   color: #ffffff;
   text-transform: uppercase;
+  font-weight: 700;
 }
 
 .team {
